@@ -17,7 +17,7 @@ class Home extends StatefulWidget {
 
 class _HomeState extends State<Home> {
   List _carouselImages = [
-    'assets/images/carousel1.png',
+    'assets/images/carousel0.png',
     'assets/images/carousel2.jpeg',
     'assets/images/carousel3.jpg',
     'assets/images/carousel4.png',
